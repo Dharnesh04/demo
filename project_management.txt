@@ -1,0 +1,16 @@
+Project Sickness is a term used to describe a phenomenon that occurs in project management when a project is stuck in an endless loop of planning and re-planning, without any real progress being made towards its completion. This can be caused by a lack of clear goals, poor communication, changing requirements, unclear roles and responsibilities, resistance to change, and inadequate resources. To prevent project sickness, it is important to have a well-defined project plan, clear communication channels, and a committed project team with defined roles and responsibilities. It is also important to regularly review progress and adjust the plan as needed to keep the project on track.
+PRODUCTIVITY AS A PERFORMANCE INDICATOR IN PROJECT MANAGEMENT?
+
+Productivity is a commonly used performance indicator in project management that measures the efficiency of resources (such as time, money, and manpower) used to produce a certain output. It can be used to assess the overall performance of a project and identify areas where improvements can be made to increase efficiency. The formula for productivity is typically: 
+
+Output / Input = Productivity 
+
+For example, if a project team completes 10 units of work in 40 hours, then their productivity is 10 / 40 = 0.25 units per hour. This metric can be used to track progress and compare performance against established benchmarks or goals. In project management, monitoring productivity helps to ensure that resources are being used effectively and efficiently, and that the project is on track to meet its objectives.
+
+VALUE AS A PERFORMANCE INDICATOR?
+
+Value is another important performance indicator in project management that measures the relationship between the benefits delivered by a project and its costs. It is used to assess the overall value created by a project and helps to determine whether it is delivering a positive return on investment (ROI). The formula for value is typically: 
+
+Value = Benefits / Costs 
+
+For example, if a project delivers $100,000 in benefits and costs $80,000, then the value of the project is $100,000 / $80,000 = 1.25. This metric can be used to evaluate the impact of the project and prioritize it against other potential initiatives. In project management, tracking value helps to ensure that resources are being invested in projects that deliver the greatest benefits and that the organization is maximizing its return on investment.
